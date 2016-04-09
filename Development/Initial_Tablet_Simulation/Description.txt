@@ -1,0 +1,1 @@
+This is a simple demo that I wrote to convince myself Unity was a viable option for developing an interactive simulation. The code is not meant to be production quality, this was just a quick and dirty POC.
