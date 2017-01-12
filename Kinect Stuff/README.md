@@ -1,4 +1,4 @@
-Kinect Scripts
+# Kinect Scripts
 
 Attach FollowJoint.cs to an object you wish to control with your body
 
